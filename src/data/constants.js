@@ -12,7 +12,7 @@ export const Bio = {
     "Final year Computer Science student with a passion for full-stack development and software engineering. Motivated by challenges, dedicated to excellence, and fueled by continuous learning. Ready to make a meaningful impact with a positive attitude and a growth mindset. ",
   github: "https://github.com/niteshim0",
   resume:
-    "https://github.com/niteshim0",
+    "https://drive.google.com/file/d/1NPzITzsb96YCy4RkOCjD2_dCe6uwSwLd/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/niteshim111/",
   twitter: "https://twitter.com/niteshim111",
   insta: "https://twitter.com/niteshim111",
