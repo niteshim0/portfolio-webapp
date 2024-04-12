@@ -208,7 +208,7 @@ export const education = [
     img: "http://www.mmmut.ac.in/images/logo3.jpg",
     school: "Madan Mohan Malaviya University of Technology, Gorakhpur",
     date: "Oct 2020 - May 2024",
-    grade: "7.57 CGPA",
+    grade: "7.62 CGPA",
     desc: "I am currently enrolled in the Bachelor's program for Computer Science and Engineering at Madan Mohan Malaviya University of Technology, Gorakhpur. Having completed six semesters, my cumulative grade point average (CGPA) stands at 7.57. Throughout my academic journey, I have undertaken a diverse range of courses including Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, and others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
