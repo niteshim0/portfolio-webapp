@@ -9,7 +9,7 @@ export const Bio = {
     "Technical Content Writer"
   ],
   description:
-    "Final year Computer Science student with a passion for full-stack development and software engineering. Motivated by challenges, dedicated to excellence, and fueled by continuous learning. Ready to make a meaningful impact with a positive attitude and a growth mindset. ",
+    "🎓 Recent CSE Graduate (2024 B.Tech) seeking early-career roles in the IT sector, with a specialization in Full Stack Development (MERN).
   github: "https://github.com/niteshim0",
   resume:
     "https://drive.google.com/file/d/12Br-c2fr_ylEfGW6GMCZtitoVgyL9St4/view?usp=sharing",
@@ -172,31 +172,20 @@ export const experiences = [
   {
     id: 0,
     img: "",
-    role: "Role : If you are hiring,then provide me one",
-    company: "Company : Yours",
-    date: "Date : You only know",
-    desc: "I am a final year computer science student proficient in HTML, CSS, JavaScript, TypeScript, TailwindCSS, Bootstrap, React.js, Next.js, Express.js, Node.js, MongoDB, Mongoose, C++, Java, Python, and DSA. I offer strong problem-solving skills and a passion for web development. Eager to contribute effectively to your team's success.If you are hiring do consider me , and help me filling this experience section for real.",
+    role: "Role : Frontend Developer Intern,
+    company: "Company : Jogaz. Info Pvt. Ltd. (Remote)",
+    date: "Date : Jan 2025 - Present",
+    desc: "◦ Built reusable and modular components using React.js to ensure scalability and maintainability.",
     skills: [
       "HTML",
       "CSS",
       "JavaScript",
-      "TypeScript",
-      "TailwindCSS",
-      "Bootstrap",
       "React.js",
       "Next.js",
       "Express.js",
       "Node.js",
       "MongoDB",
       "Mongoose",
-      "C++",
-      "Java",
-      "Python",
-      "DSA and Problem Solving",
-      "Computer Networks",
-      "Object Oriented Programming",
-      "Operating System",
-      "DBMS"
     ],
     doc: "",
   },
