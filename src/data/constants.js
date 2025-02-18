@@ -8,8 +8,7 @@ export const Bio = {
     "Programmer",
     "Technical Content Writer"
   ],
-  description:
-    "🎓 Recent CSE Graduate (2024 B.Tech) seeking early-career roles in the IT sector, with a specialization in Full Stack Development (MERN).
+  description: "Recent CSE Graduate (2024 B.Tech) seeking early-career roles in the IT sector, with a specialization in Full Stack Development (MERN)".,
   github: "https://github.com/niteshim0",
   resume:
     "https://drive.google.com/file/d/12Br-c2fr_ylEfGW6GMCZtitoVgyL9St4/view?usp=sharing",
