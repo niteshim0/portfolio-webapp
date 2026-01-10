@@ -24,7 +24,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Nitesh Kushwaha. All rights reserved.
+          &copy; 2026 Nitesh Kushwaha. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
