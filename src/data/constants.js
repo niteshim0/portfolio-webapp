@@ -4,11 +4,11 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Backend Developer",
-    "Frontend Developer",
-    "Programmer",
-    "Technical Content Writer"
+    "Software Developer",
+    "Technical Content Writer",
   ],
-  description: "Recent CSE Graduate (2024 B.Tech) seeking early-career roles in the IT sector, with a specialization in Full Stack Development (MERN)".,
+  description:
+    "Full Stack Developer experienced in React, Node.js, MongoDB, and Java, delivering complete applications from frontend to backend. Strong foundation in DSA and core CS concepts. Focused on clean code, scalability, and performance. Open to opportunities in software development, backend development, and full stack roles.",
   github: "https://github.com/niteshim0",
   resume:
     "https://drive.google.com/file/d/12Br-c2fr_ylEfGW6GMCZtitoVgyL9St4/view?usp=sharing",
