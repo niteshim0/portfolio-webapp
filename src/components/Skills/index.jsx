@@ -7,7 +7,10 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Over the past year, I've diligently honed a diverse array of skills, each representing a significant milestone in my professional journey. Here's a glimpse into the expertise I've cultivated:.</Desc>
+        <Desc> Over time, I’ve built a diverse skill set through hands-on experience and continuous learning.
+        <br/>
+        Here’s a snapshot of the expertise I bring to the table.
+        </Desc>
         <SkillsContainer>
           {skills.map((skill,idx) => (
             <Skill key={idx}>
