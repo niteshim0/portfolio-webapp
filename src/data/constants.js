@@ -208,33 +208,32 @@ export const experiences = [
 ];
 
 export const education = [
-  
-    {
-      id: 0,
-      img: "http://www.mmmut.ac.in/images/logo3.jpg",
-      school: "Madan Mohan Malaviya University of Technology, Gorakhpur",
-      date: "Oct 2020 - May 2024",
-      grade: "7.9 CGPA",
-      desc: "Completed Bachelor of Technology in Computer Science and Engineering with a CGPA of 7.9. Built a strong foundation in core computer science subjects including Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Actively developed problem-solving skills and practical knowledge through academic projects and coursework.",
-      degree: "Bachelor of Technology (B.Tech), Computer Science and Engineering
-   },
+  {
+    id: 0,
+    img: "http://www.mmmut.ac.in/images/logo3.jpg",
+    school: "Madan Mohan Malaviya University of Technology, Gorakhpur",
+    date: "Oct 2020 - May 2024",
+    grade: "7.9 CGPA",
+    desc: "Completed Bachelor of Technology in Computer Science and Engineering with a CGPA of 7.9. Built a strong foundation in core subjects including Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Strengthened problem-solving and practical skills through academic projects and coursework.",
+    degree: "Bachelor of Technology (B.Tech), Computer Science and Engineering",
+  },
   {
     id: 1,
     img: "https://www.stpaulsalempur.in/wp-content/uploads/2018/11/school-logo-final.png",
-    school: "St. Paul Public School Salempur",
-    date: "Apr 2019 - March 2020",
+    school: "St. Paul Public School, Salempur",
+    date: "Apr 2019 - Mar 2020",
     grade: "94.2%",
-    desc: "I completed my Class 12 intermediate education at St. Paul Public School, Salempur, where I pursued the CBSE curriculum with a focus on Physics, Chemistry, and Mathematics (PCM) subjects.",
-    degree: "CBSE(XII) , PCM Stream",
+    desc: "Completed Class XII (CBSE) with a focus on Physics, Chemistry, and Mathematics (PCM). Built a strong analytical foundation and academic excellence in core science subjects.",
+    degree: "CBSE (XII), PCM Stream",
   },
   {
     id: 2,
     img: "https://www.stpaulsalempur.in/wp-content/uploads/2018/11/school-logo-final.png",
-    school: "St. Paul Public School Salempur",
-    date: "Apr 2017 - March 2018",
+    school: "St. Paul Public School, Salempur",
+    date: "Apr 2017 - Mar 2018",
     grade: "94%",
-    desc: "I successfully completed my secondary education at St. Paul Public School, Salempur, where I pursued the Central Board of Secondary Education (CBSE) curriculum for Class 10. My subjects included Science, Social Science, English, Hindi, and Mathematics",
-    degree: "CBSE(X)",
+    desc: "Completed Class X (CBSE) with strong academic performance. Studied core subjects including Science, Mathematics, Social Science, English, and Hindi.",
+    degree: "CBSE (X)",
   },
 ];
 
