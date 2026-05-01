@@ -178,7 +178,7 @@ export const experiences = [
     img: "",
     role: "Role  Frontend Developer Intern",
     company: "Company : Jogaz. Info Pvt. Ltd. (Remote).",
-    date: "Date : Jan 2025 - Present",
+    date: "Date : Jan 2025 - June 2025",
     desc: "◦ Built reusable and modular components using React.js to ensure scalability and maintainability.",
     skills: [
       "HTML",
@@ -193,6 +193,18 @@ export const experiences = [
     ],
     doc: "",
   },
+  {
+    id: 1,
+    img: "",
+    role: "System Enginner",
+    company: "Company : IBM",
+    date: "Date : May 26 - Present",
+    desc: "◦ ",
+    skills: [
+      
+    ],
+    doc: "",
+  }
 ];
 
 export const education = [
